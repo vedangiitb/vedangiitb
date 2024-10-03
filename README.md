@@ -10,7 +10,7 @@
 ## Skills
 - **Programming Languages:** Python, Embedded C++, SQL, Kotlin, JavaScript, Java.
 - **Frameworks:** React, Node.js, Angular, Spring Boot, etc.
-- **Tools:** Git, Docker, Arduino Studio, etc.
+- **Tools:** Git, Docker, Arduino Studio, Android Studio etc.
 
 ---
 
