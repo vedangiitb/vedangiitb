@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently a final year undergrad at IIT Bombay.
-- 👯 I’m enthusiastic about **Web Development**, **Artificial Intelligence**, and **IoT**.
+- 👯 I’m enthusiastic about **Full Stack Development**, **Artificial Intelligence**, and **IoT**.
 - 📫 Reach me at [vedangbaleiitb@gmail.com](mailto:vedangbaleiitb@gmail.com).
 
 ---
@@ -10,7 +10,7 @@
 ## Skills
 - **Programming Languages:** Python, Embedded C++, SQL, Kotlin, JavaScript, Java.
 - **Frameworks:** React, Node.js, Angular, Spring Boot, etc.
-- **Tools:** Git, Docker, Arduino Studio, Android Studio etc.
+- **Tools:** Git, Docker, Arduino Studio, Android Studio, AWS etc.
 
 ---
 
