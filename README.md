@@ -14,12 +14,18 @@
 
 ---
 ## Current Project
-Working on Qwintly, an AI powered autonomous website generator.
+Working on **Qwintly**, an AI powered autonomous website generator.
+**[Architecture](https://github.com/qwintly/qwintly-architecture?tab=readme-ov-file)
+[Frontend Next.Js application](https://github.com/vedangiitb/qwintly)
+[Worker Orchestrator](https://github.com/vedangiitb/qwintly-wg-worker)
+[Deployer Job](https://github.com/vedangiitb/qwintly-deployer)
+[Builder Job](https://github.com/vedangiitb/qwintly-builder)
+[Infra manager](https://github.com/vedangiitb/qwintly-infra)**
 
 ## Past Projects
 Here are some past projects I've worked on:
 
-1. **[Rekruit & Rekruit Assess](https://github.com/vedangiitb/Rekruit) (https://github.com/vedangiitb/Rekruit-Assess)**  
+1. **[Rekruit](https://github.com/vedangiitb/Rekruit) & [Rekruit Assess](https://github.com/vedangiitb/Rekruit-Assess)**  
    An AI-powered tech assessment platform for building new-age teams. Focuses on resume filtering to maximise chances of getting best candidates.  
 
 2. **[ProductiVty Pro](https://github.com/vedangiitb/ProductiVty-Pro/tree/master)**  
