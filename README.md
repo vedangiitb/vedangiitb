@@ -1,43 +1,104 @@
-# Hi there, I'm Vedang Bale! 👋
+# Hi there, I'm Vedang Bale 👋
 
-## About Me
-- 🌱 SDE@ BNY.
-- 👯 Enthusiastic about **Full Stack Development**, **Artificial Intelligence**, and **DevOps**.
-- 📫 Reach me at [vedangbaleiitb@gmail.com](mailto:vedangbaleiitb@gmail.com).
+Software Engineer passionate about building **scalable systems, AI products, and developer infrastructure**.
 
----
-
-## Skills
-- **Programming Languages:** Python, SQL, Kotlin, JavaScript, Java.
-- **Frameworks:** React, Node.js, Angular, Spring Boot, Electron.js etc.
-- **Tools & Platforms:** Git, Docker, GCP, Terraform, AWS etc.
-
----
-## Current Project
-Working on **Qwintly**, an AI powered autonomous website generator.
-**[Architecture](https://github.com/qwintly/qwintly-architecture?tab=readme-ov-file)
-[Frontend Next.Js application](https://github.com/vedangiitb/qwintly)
-[Worker Orchestrator](https://github.com/vedangiitb/qwintly-wg-worker)
-[Deployer Job](https://github.com/vedangiitb/qwintly-deployer)
-[Builder Job](https://github.com/vedangiitb/qwintly-builder)
-[Infra manager](https://github.com/vedangiitb/qwintly-infra)**
-
-## Past Projects
-Here are some past projects I've worked on:
-
-1. **[Rekruit](https://github.com/vedangiitb/Rekruit) & [Rekruit Assess](https://github.com/vedangiitb/Rekruit-Assess)**  
-   An AI-powered tech assessment platform for building new-age teams. Focuses on resume filtering to maximise chances of getting best candidates.  
-
-2. **[ProductiVty Pro](https://github.com/vedangiitb/ProductiVty-Pro/tree/master)**  
-   An android application built with kotlin, a daily planner and focus app aimed at enhancing your productivity! 
-
-3. **[TinyML Meter Reader](https://github.com/vedangiitb/TinyML-MeterReader)**  
-   An R&D project done in KCDH, IIT Bombay, involving IoT and machine learning on microcontrollers.
-
-5. **[Eshelby Solution](https://github.com/vedangiitb/Eshelby-Solution-App)**  
-   Developed a desktop application for Eshelby Solution using Electron.js and Node.js under Prof. M.P. Gururajan, MEMS, IIT Bombay.
+Currently exploring how **AI agents + distributed systems** can automate complex software workflows.
 
 ---
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vedang-bale-845839224/)
+## 👨‍💻 About Me
+- 💼 **Software Development Engineer @ BNY**
+- 🚀 Interested in **Full Stack Development, AI Systems, and DevOps**
+- 🧠 Enjoy building **large-scale systems and AI-powered products**
+- 📫 Reach me at **[vedangbaleiitb@gmail.com](mailto:vedangbaleiitb@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • Java • Kotlin • JavaScript • SQL
+
+### Frameworks & Libraries
+React • Node.js • Angular • Spring Boot • Electron.js
+
+### Infrastructure & Tools
+Docker • Git • Terraform • GCP • AWS
+
+---
+
+# 🚀 Current Project
+
+## Qwintly — Autonomous AI Website Generator
+
+An **AI-powered system that generates and deploys production-ready websites autonomously.**
+
+The platform orchestrates multiple services for **generation, building, deployment, and infrastructure management**.
+
+### Repositories
+
+- 🏗️ **[System Architecture](https://github.com/qwintly/qwintly-architecture)**
+- 💻 **[Frontend (Next.js)](https://github.com/vedangiitb/qwintly)**
+- ⚙️ **[Worker Orchestrator](https://github.com/vedangiitb/qwintly-wg-worker)**
+- 🚀 **[Deployment Service](https://github.com/vedangiitb/qwintly-deployer)**
+- 🔨 **[Builder Service](https://github.com/vedangiitb/qwintly-builder)**
+- ☁️ **[Infrastructure Manager](https://github.com/vedangiitb/qwintly-infra)**
+
+---
+
+# 📦 Past Projects
+
+## Rekruit & Rekruit Assess
+🔗 https://github.com/vedangiitb/Rekruit  
+🔗 https://github.com/vedangiitb/Rekruit-Assess
+
+AI-powered **technical hiring platform** designed to streamline candidate evaluation.
+
+Key features:
+- AI resume filtering
+- Candidate assessment workflows
+- Automated screening to improve hiring efficiency
+
+---
+
+## ProductiVty Pro
+🔗 https://github.com/vedangiitb/ProductiVty-Pro
+
+Android productivity application built with **Kotlin**.
+
+Features:
+- Daily planner
+- Focus tracking
+- Task management designed to improve productivity habits.
+
+---
+
+## TinyML Meter Reader
+🔗 https://github.com/vedangiitb/TinyML-MeterReader
+
+Research project at **KCDH, IIT Bombay** exploring **TinyML on microcontrollers**.
+
+Goal: Automatically read analog meter values using **embedded machine learning models**.
+
+---
+
+## Eshelby Solution App
+🔗 https://github.com/vedangiitb/Eshelby-Solution-App
+
+Desktop application developed under **Prof. M. P. Gururajan (MEMS, IIT Bombay)**.
+
+Built using **Electron.js + Node.js** to assist with computational material science simulations.
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 **LinkedIn**  
+  https://www.linkedin.com/in/vedang-bale-845839224/
+
+- 📧 **Email**  
+  vedangbaleiitb@gmail.com
+
+---
+
+💡 *I enjoy building ambitious systems that combine AI, infrastructure, and real-world applications.*
