@@ -116,14 +116,6 @@ https://github.com/vedangiitb/Eshelby-Solution-App
 
 ---
 
-# 📊 GitHub Stats
-
-![Vedang's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedangiitb&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedangiitb&layout=compact&theme=tokyonight)
-
----
-
 # 🤝 Connect With Me
 
 💼 LinkedIn  
